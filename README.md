@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-I am a Data analyst from India🏔. I contributor of open source data science projects.
+I am a Data analyst from India 🇮🇳.
 
 
 ## 🤔 Current Status 
