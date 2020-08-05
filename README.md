@@ -6,7 +6,7 @@ I am a Data analyst from India 🇮🇳.
 
 ## 🤔 Current Status 
 - 🔭 I’m currently working on Machine learning Projects.
-- 🌱 I’m currently learning Deep Learning & Deploy models with Django on Cloud Like AWS AZURE HEROKU CLOUDFACTORY, Also Django Framework for web developement
+- 🌱 I’m currently learning Deep Learning & Deploy models with Django on Cloud Like AWS, AZURE, HEROKU, CLOUDFACTORY and Also Django Framework for web developement
 
 ## 💬 Ask me about 
 - Tableau Dashboards,Model building in ML with python, Python(OOP) & Flask 
